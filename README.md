@@ -24,7 +24,7 @@ The dashboard helps you explore **trends, patterns, and comparisons** in the Oly
 - **Data Modeling** → Building relationships between multiple datasets.
 
 ## 🔍 Key Insights
-- 🏳️ **Countries: **233 countries** have participated across the Olympic Games.
+- 🏳️ **Countries**: **233 countries** have participated across the Olympic Games.
 - 👨‍👩‍👧 **Athletes:** Participation has grown from **241 athletes** in 1896 to **11,000+ athletes** in recent editions.
 - 🥇 **Top Medal Winners:** USA, Russia, and China dominate the medal tally historically.
 - 🏃 **Sports Evolution:** Several new sports have been introduced over time.
